@@ -1,0 +1,1 @@
+In this session we get our hands dirty on how to use git and github for software version control.
